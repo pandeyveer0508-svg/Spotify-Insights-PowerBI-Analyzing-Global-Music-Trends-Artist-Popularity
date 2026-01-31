@@ -1,0 +1,2 @@
+# Spotify-Insights-PowerBI-Analyzing-Global-Music-Trends-Artist-Popularity
+Analyze Spotify’s catalog (1952–Present) to identify streaming success drivers. This dashboard visualizes 206B followers and 598K popularity points, revealing that 75% of content is non-explicit and full-length albums dominate growth. It maps the correlation between release formats and artist visibility to decode digital music trends.
